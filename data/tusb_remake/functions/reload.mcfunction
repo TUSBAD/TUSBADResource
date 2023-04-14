@@ -1,2 +1,0 @@
-execute as @a at @s run playsound entity.cat.beg_for_food master @s ~ ~ ~ 1.0 1.0
-tellraw @a [{"translate":"リロードを行いました。\n現在の%1$sのversionはv12.5,%2$sです。","bold":true,"with":[{"translate":"TUSB_AD","color":"light_purple"},{"storage":"tusb_remake:","nbt":"mapversion","color":"green"}]}]
