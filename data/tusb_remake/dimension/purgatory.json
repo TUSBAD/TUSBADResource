@@ -1,0 +1,10 @@
+{
+  "type": "tusb_remake:purgatory",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:purgatory",
+      "layers": []
+    }
+  }
+}

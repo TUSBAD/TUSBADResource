@@ -1,0 +1,55 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:magma_block"
+        },
+        "title": [
+            {
+                "text": ""
+            },
+            {
+                "translate": "浄化%1$s %2$s",
+                "color": "aqua",
+                "bold": true,
+                "with": [
+                    {
+                        "translate": "「蒼天の守護者",
+                        "color": "aqua",
+                        "bold": true
+                    },
+                    {
+                        "translate": "ベガ」",
+                        "color": "aqua",
+                        "bold": true
+                    }
+                ]
+            }
+        ],
+        "description": {
+            "translate": "クラウディアの守護者%1$sと対峙し、\n%2$sから解放する。",
+            "color": "white",
+            "with": [
+                {
+                    "translate": "「ベガ」",
+                    "color": "aqua",
+                    "bold": true
+                },
+                {
+                    "translate": "異空間",
+                    "color": "dark_purple",
+                    "bold": true
+                }
+            ]
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "advancement:unusual_space/save_betelgeuse",
+    "criteria": {
+        "enter": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

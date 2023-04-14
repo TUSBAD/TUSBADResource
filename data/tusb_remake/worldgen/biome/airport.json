@@ -1,0 +1,32 @@
+{
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "precipitation": "none",
+  "temperature_modifier": "none",
+  "creature_spawn_probability": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 9494521,
+    "fog_color": 12775679,
+    "water_color": 8189438,
+    "water_fog_color": 7727359,
+    "grass_color": 3531576,
+    "foliage_color": 2419525,
+    "music": {
+      "sound": "minecraft:music.overworld.old_growth_taiga",
+      "min_delay": 0,
+      "max_delay": 0,
+      "replace_current_music": false
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:glow"
+      },
+      "probability": 0.0001
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}

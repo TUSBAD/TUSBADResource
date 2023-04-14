@@ -1,0 +1,23 @@
+{
+    "//": "備考等あればここにどうぞ。ダメージや消費MP諸々の数値はTUSBv12(1.10.2)wikiからの数値を参照。v12Rと異なる可能性あり。",
+    "display": {
+        "icon": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "title": "跳躍Ⅱ",
+        "description": "スニーク時間に応じて跳躍力が上昇する。効果時間3秒,消費MP3",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "advancement:skill_learn/ninja/choyaku_lv1",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "template:set_future_if_job_data_determined"
+    }
+}

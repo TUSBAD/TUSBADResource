@@ -1,0 +1,22 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.5,
+  "precipitation": "snow",
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 11140606,
+    "fog_color": 12638463,
+    "water_color": 3395824,
+    "water_fog_color": 1644990,
+    "particle": {
+      "options": {
+        "type": "minecraft:end_rod"
+      },
+      "probability": 0.001
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}

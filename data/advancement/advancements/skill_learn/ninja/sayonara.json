@@ -1,0 +1,23 @@
+{
+    "//": "備考等あればここにどうぞ。ダメージや消費MP諸々の数値はTUSBv12(1.10.2)wikiからの数値を参照。v12Rと異なる可能性あり。",
+    "display": {
+        "icon": {
+            "item": "minecraft:tnt"
+        },
+        "title": "サヨナラ",
+        "description": "爆発四散し、残りMPに応じたダメージを与える。また、残りMPが100以上だった時、レイズの効果を得る。消費MP1~100",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "advancement:skill_learn/ninja/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "template:set_future_if_job_data_determined"
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "temperature": 0.1,
+  "downfall": 0.1,
+  "precipitation": "snow",
+  "temperature_modifier": "frozen",
+  "creature_spawn_probability": 0,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 14079702,
+    "fog_color": 13762556,
+    "water_color": 3380991,
+    "water_fog_color": 20172,
+    "grass_color": 13104895,
+    "foliage_color": 10420223,
+    "music": {
+      "sound": "minecraft:music.overworld.snowy_slopes",
+      "min_delay": 0,
+      "max_delay": 0,
+      "replace_current_music": false
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:snowflake"
+      },
+      "probability": 0.0001
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": []
+}

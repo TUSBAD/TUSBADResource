@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner: {Id: [I;-1162359358,-155564042,-1197870534,-584156033], Properties: {textures: [{Signature:\"umpDr8Zc/F/+mGdg5Ioo2hfEMmPRw4JUfTk2tBEH2uul2lTbADSfjAARQgQ3Cp2+PWTLNfiyMzXknnbiTpunCa47m+iFfe4VV2CWi0s9BRqPYM0VJegF6ENsQGNFOMkRAeQpChqzSZZ2Tc4YtbL9DL3qWcuWXRCgQ4BfSQeR1WYYcPdIcsoeXAJ01x26AjqBwru9NiauV0RvsQ28qh1KNy8pgBsV4RCpJg0Mwhx1NQyh3GNLjfWOKodzWugTbHS5UAUUOThs5nnt3DScZrUE1KCTjKU91VNOr9DXePJn/fXeMB/ciOQYVaABpYg3OkFavVy8oTGX1+REAnNYChi/tiBOjhQ/mcu1DAp26Eryl4qXpUbg0+4loVpvMgdc4EqlItuvIh4czsTIpkO+f71AuzUe5LC/YaB+OcCctCg84nEl0WynjDcZx9esAu+sHsne8Fo0MJkg/+0jaAEmrsuMXjl72vi4iJDUiLX06klq7hoD6aOXWyTTLcS7+TSzhFTWGHqS5TVwrmqFGu/QNRaYYZ7Z71YfoN0TsEy87Qjw8+7WOQ0nGAN9ccxIgbhloWJyeNkHIsvzyuqlKxTJ0xXImLFt9v+V59CZy6xcMQFaB2S6gpGN05RKKyxMTNn9zzSu7bB1xlI0CVIrTjTdXd5IHQMWzuMP5FAnj4Oeym5l/kQ=\", Value: \"ewogICJ0aW1lc3RhbXAiIDogMTY2MDgwNDMwNzUwMSwKICAicHJvZmlsZUlkIiA6ICJiYWI3Y2RjMmY2YmE0N2Y2Yjg5OWYyM2FkZDJlN2M3ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaUFrYWlzaGkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmZhNTg5MzE4ZjhmOTIzZmQ3YzFhZDE1YTA2Y2ExMjZhZjE1YmQ1NDMzZGZmNzg2NDJlNWIyNzhkNjNmNDdiMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]}, Name: \"AiAkaishi\"}}"
+    },
+    "title": [
+      {
+        "translate": " TUSBマンション ",
+        "color": "gold",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "製作者村人達が住んでいるマンション。\n攻略が進むにつれ入居者が増えるようだ。",
+      "color": "white"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:tradeisland/trade02",
+  "criteria": {
+    "agent": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

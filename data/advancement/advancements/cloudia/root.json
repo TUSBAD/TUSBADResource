@@ -1,0 +1,44 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:snow_block"
+        },
+        "title": [
+            {
+                "text": ""
+            },
+            {
+                "translate": "-クラウディア-",
+                "color": "white",
+                "bold": true
+            }
+        ],
+        "description": {
+            "translate": "%1$s跨ぐ%2$sの世界",
+            "color": "white",
+            "with": [
+                {
+                  "translate": "蒼天",
+                  "color": "aqua",
+                  "bold": true
+                },
+                {
+                  "translate": "虹",
+                  "color": "light_purple",
+                  "bold": true
+                }
+              ]
+
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/snow.png"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

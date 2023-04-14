@@ -1,0 +1,61 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/cloudia"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/gullivers_land"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/end"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/nether_dungeon"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/nether_trial"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/table_mountain"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/ancient_field"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/extra_domain"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/airport"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/library"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/tradeisland"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/imaginary"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/another_dimension"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:area/unusual"
+		}
+	]
+}

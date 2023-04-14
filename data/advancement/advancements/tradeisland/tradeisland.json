@@ -1,0 +1,46 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bell"
+        },
+        "title": [
+            {
+                "text": ""
+            },
+            {
+                "translate": "- 交易島にようこそ！ -",
+                "color": "green",
+                "bold": true
+            }
+        ],
+        "description": {
+            "translate": "%1$sには、旧通常世界や交易島にいた、\n%2$s達が独自の島を持ち生活しています。\n中央広場から伸びる通路にある各看板をクリックすると各島の詳細を確認できます。",
+            "color": "white",
+            "with": [
+                {
+                  "translate": "交易島",
+                  "color": "green",
+                  "bold": true
+                },
+                {
+                  "translate": "村人",
+                  "color": "aqua",
+                  "bold": true
+                }
+              ]
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "advancement:tradeisland/root",
+    "criteria": {
+        "enter": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "tusb_remake:trade"
+            }
+        }
+    }
+}

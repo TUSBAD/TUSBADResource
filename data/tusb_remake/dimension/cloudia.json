@@ -1,0 +1,10 @@
+{
+  "type": "tusb_remake:cloudia",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:cloudia",
+      "layers": []
+    }
+  }
+}

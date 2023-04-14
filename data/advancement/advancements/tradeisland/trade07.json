@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:guardian_spawn_egg",
+      "nbt": "{Enchantments:[{}]}"
+    },
+    "title": [
+      {
+        "translate": " スキル設定場 ",
+        "color": "green",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "スキルの設定や試し切りができるエリア。\nまた釣り堀や道場へ繋がる道も存在するようだ。",
+      "color": "white"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:tradeisland/trade06",
+  "criteria": {
+    "church": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

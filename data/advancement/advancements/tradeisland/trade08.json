@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner: {Id: [I; 1056415133, -1160559941, -1730885451, 1732390425], Properties: {textures: [{Signature: \"CHlRjDNbqanx0qXgpwBlr6+XlOxBZ4juA9wzgXdjBbbSomllV0wg2EL1zZlOW9Yl55J7Fz5izaEpZZpVu347/J+vLiMY/luOtwt/3UouQdwA5gkvRf5+v5KUdwZdXzQAJFrMDWFS2SsmTR1vGcdIVtPQYfM3CQUc2oX4YJZ3WuNf4UBN3LMyGV1fvNgwcJmnTvNBWZMmXEXELqFlq2Fc37bxpUhA0tjLmhkwWYSXJotF0ymEnSiX5eBjdefEHmm2YuLu+/ODvKi/8wCc+oowSZki6mbjs3qDXf9oNSfD+Li+aWwFSPiVFhwd+SWLnGFLPQaGfmashnbhifwWrLIkYs3swUDA13ck/q3ruS8OYB7zfdQa/fbX0cI2rnTHFJzKUPBbFlsGHMSh+Db2ke677SoaRcEMKiabGQzYKd81fz+o3sDoIOWNVMKAuAapbdbKQwkzlPtT9aw9Gj6LluU8gpCgsi5yNfX3yiqtNi7ArXeN85n5i6bo1Q3wIDc8O8y7I2Okw5xaI423KX+IzaSs2cqSa40IVCXDsr0AiwOcX+Pil9nuVGx/eFWvs1deURSY521ON4Ac7NT7GOwrL4ZTsJU5+ur5EyFCx4a+y2QchWWiMGdsPiA4QD1LTwVIEajCNuaC1IdvpVd9248QrQDSX4aTrF40rSmbq+/XF/cvx9I=\", Value: \"ewogICJ0aW1lc3RhbXAiIDogMTY2MDc5NjE1NDEyNywKICAicHJvZmlsZUlkIiA6ICIzZWY3OWQ5ZGJhZDM0MmJiOThkNGM4YjU2NzQyMmUxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmV5Q2llbHUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE4ZGY5OThhNzcxZTMxYjdkNWU0MjI3ZjI4OGRjNzMzMGQ0OGUxMzIyYTMzZDhlM2FlNjgxZmNjZGFiNmRhYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]}, Name: \"FreyCielu\"}}"
+    },
+    "title": [
+      {
+        "translate": " 製作者の家 ",
+        "color": "green",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "%1$s製作陣が集う家。\n拠点としても使用可能な作りであり、一時的に%2$sになる。\nまた、温泉も備わっており疲れをいやすことも可能。",
+      "color": "white",
+      "with": [
+        {
+          "translate": "TUSBAD",
+          "color": "light_purple"
+        },
+        {
+          "translate": "サバイバルエリア",
+          "color": "aqua"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:tradeisland/trade07",
+  "criteria": {
+    "church": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tusb_remake:exdomain",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:exdomain",
+      "layers": []
+    }
+  }
+}

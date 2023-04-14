@@ -1,0 +1,23 @@
+{
+    "//": "備考等あればここにどうぞ。ダメージや消費MP諸々の数値はTUSBv12(1.10.2)wikiからの数値を参照。v12Rと異なる可能性あり。",
+    "display": {
+        "icon": {
+            "item": "minecraft:pufferfish"
+        },
+        "title": "水遁",
+        "description": "自身を潜水に強くする。効果時間60秒,消費MP15 +スニーク 周囲のプレイヤーを潜水に強くする。範囲15m,効果時間60秒,消費MP45",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "advancement:skill_learn/ninja/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "template:set_future_if_job_data_determined"
+    }
+}

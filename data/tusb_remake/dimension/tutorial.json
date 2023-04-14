@@ -1,0 +1,10 @@
+{
+  "type": "tusb_remake:tutorial",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:tutorial",
+      "layers": []
+    }
+  }
+}

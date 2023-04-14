@@ -1,0 +1,23 @@
+{
+    "//": "ダメージや消費MP諸々の数値はTUSBv12(1.10.2)wikiからの数値を参照。v12Rと異なる可能性あり。",
+    "display": {
+        "icon": {
+            "item": "minecraft:firework_rocket"
+        },
+        "title": "薙ぎ払いⅢ",
+        "description": "範囲5mの敵を切り上げる。剣で攻撃し発動,消費MP10",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "advancement:skill_learn/knight/nagi_harai_lv2",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "template:set_if_job_data_determined"
+    }
+}

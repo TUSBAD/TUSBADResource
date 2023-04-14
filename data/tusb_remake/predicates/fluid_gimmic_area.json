@@ -1,0 +1,25 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "reference",
+			"name": "tusb_remake:biome/unusual"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:biome/underworld"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:biome/nether_dungeon"
+		},
+		{
+			"condition": "reference",
+			"name": "tusb_remake:biome/revskyland"
+		},
+        {
+			"condition": "reference",
+			"name": "tusb_remake:biome/another"
+		}
+	]
+}

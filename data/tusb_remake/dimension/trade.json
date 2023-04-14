@@ -1,0 +1,10 @@
+{
+  "type": "tusb_remake:tradeisland",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:tradeisland",
+      "layers": []
+    }
+  }
+}

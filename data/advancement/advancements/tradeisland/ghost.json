@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:air",
+      "nbt": "{Enchantments:[{}]}"
+    },
+    "title": [
+      {
+        "translate": " 私は幽霊です。 ",
+        "color": "gray",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "%1$sは有用なアイテムを交易してくれる。",
+      "color": "white",
+      "with": [
+        {
+          "translate": "交易島の霊",
+          "color": "dark_gray"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:tradeisland/pastor",
+  "criteria": {
+    "pastor": {
+			"trigger": "minecraft:player_interacted_with_entity",
+			"conditions": {
+				"entity": {
+					"type": "villager",
+					"nbt": "{Tags:[\"ghost\"]}"
+				}
+			}
+		}
+  }
+}

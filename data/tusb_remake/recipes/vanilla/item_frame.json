@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "item_frame",
+  "pattern": [
+    "BSB",
+    "SPS",
+    "BSB"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "tag": "minecraft:wooden_buttons"
+    },
+    "P": {
+      "tag": "minecraft:wooden_pressure_plates"
+    }
+  },
+  "result": {
+    "item": "minecraft:item_frame",
+    "count": 4
+  }
+}

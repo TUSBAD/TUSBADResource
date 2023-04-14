@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lingering_potion",
+      "nbt": "{CustomPotionColor:9431551}"
+    },
+    "title": [
+      {
+        "translate": " 教会 ",
+        "color": "white",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "%1$sや%2$sが住む教会\n祈りを捧げるとこの場所に復帰する。\nまた、近くの墓地に%3$sもいるようだ。",
+      "color": "white",
+      "with": [
+        {
+          "translate": "神官",
+          "color": "aqua"
+        },
+        {
+          "translate": "牧師",
+          "color": "aqua"
+        },
+        {
+          "translate": "交易島の霊",
+          "color": "gray"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:tradeisland/tradeisland",
+  "criteria": {
+    "church": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

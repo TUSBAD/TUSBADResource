@@ -1,0 +1,10 @@
+{
+  "type": "tusb_remake:revskyland",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:revskyland",
+      "layers": []
+    }
+  }
+}

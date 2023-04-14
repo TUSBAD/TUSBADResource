@@ -1,0 +1,11 @@
+{
+  "type": "tusb_remake:imaginary",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:imaginary",
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}

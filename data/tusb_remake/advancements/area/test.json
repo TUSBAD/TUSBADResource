@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:changed_dimension",
+        "conditions": {
+          "to": "tusb_remake:test"
+        }
+      }
+    },
+    "rewards": {
+      "function": "tusb_remake:area/entered/test"
+    }
+}

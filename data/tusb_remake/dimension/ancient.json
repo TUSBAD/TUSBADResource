@@ -1,0 +1,10 @@
+{
+  "type": "tusb_remake:ancient",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "tusb_remake:ancient",
+      "layers": []
+    }
+  }
+}

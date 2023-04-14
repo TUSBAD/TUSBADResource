@@ -1,0 +1,53 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:potion",
+        "nbt": "{Enchantments:[{}],CustomPotionColor:9567231}"
+      },
+      "title": [
+        {
+          "translate": "特殊デバフ: 死の宣告   ",
+          "color": "red",
+          "bold": true
+        }
+      ],
+      "description": {
+        "translate": "死の%1$sを開始し、\nカウントが0になると%2$s。\n%3$sを服用すると解除できる。",
+        "color": "white",
+        "with": [
+          {
+            "translate": "カウントダウン",
+            "color": "red"
+          },
+          {
+            "translate": "即死する",
+            "color": "dark_red"
+          },
+          {
+            "translate": "聖水",
+            "color": "aqua"
+          }
+        ]
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "parent": "advancement:tips/root",
+    "criteria": {
+      "doom": {
+        "trigger": "minecraft:effects_changed",
+        "conditions": {
+          "effects": {
+            "minecraft:invisibility": {
+              "amplifier": 0,
+              "duration": {
+                "min": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  }

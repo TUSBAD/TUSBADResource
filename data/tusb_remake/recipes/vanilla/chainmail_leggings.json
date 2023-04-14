@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chainmail",
+  "pattern": [
+    "GGG",
+    "G G",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "minecraft:chainmail_leggings"
+  }
+}

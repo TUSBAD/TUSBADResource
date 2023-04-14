@@ -1,0 +1,50 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:magma_block"
+        },
+        "title": [
+            {
+                "text": ""
+            },
+            {
+                "translate": "解放%1$s %2$s",
+                "color": "green",
+                "bold": true,
+                "with": [
+                    {
+                        "translate": "「原初の守護者",
+                        "color": "white",
+                        "bold": true
+                    },
+                    {
+                        "translate": "スピカ」",
+                        "color": "white",
+                        "bold": true
+                    }
+                ]
+            }
+        ],
+        "description": {
+            "translate": "全ての守護者を解放し、\n%1$sを破壊する。",
+            "color": "white",
+            "with": [
+                {
+                    "translate": "中央のクリスタル",
+                    "color": "light_purple",
+                    "bold": true
+                }
+            ]
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "advancement:unusual_space/unusualspace",
+    "criteria": {
+        "enter": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

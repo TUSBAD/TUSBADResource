@@ -1,0 +1,46 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "title": [
+            {
+                "text": ""
+            },
+            {
+                "translate": "%1$s%2$s - 異空間 -",
+                "color": "dark_purple",
+                "bold": true,
+                "with": [
+                    {
+                        "translate": "終末誘う",
+                        "color": "light_purple",
+                        "bold": true
+                    },
+                    {
+                        "translate": "混沌との遭逢",
+                        "color": "red",
+                        "bold": true
+                    }
+                ]
+            }
+        ],
+        "description": {
+            "translate": "隔絶された世界の果て",
+            "color": "light_purple"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/crying_obsidian.png"
+    },
+    "criteria": {
+        "enter": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "tusb_remake:unusual"
+            }
+        }
+    }
+}

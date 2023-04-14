@@ -1,0 +1,23 @@
+{
+    "//": "備考等あればここにどうぞ。ダメージや消費MP諸々の数値はTUSBv12(1.10.2)wikiからの数値を参照。v12Rと異なる可能性あり。",
+    "display": {
+        "icon": {
+            "item": "minecraft:axolotl_bucket"
+        },
+        "title": "アイサツ",
+        "description": "周囲にアイサツする。敵がいた場合、戦闘に備え次のサポートスキルの消費MPを軽減する。範囲15m,消費MP5",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "advancement:skill_learn/ninja/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "template:set_future_if_job_data_determined"
+    }
+}

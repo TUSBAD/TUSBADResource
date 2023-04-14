@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:emerald",
+      "nbt": "{Enchantments:[{}]}"
+    },
+    "title": [
+      {
+        "translate": " 商人島 ",
+        "color": "aqua",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "%1$sや%2$s達が店を出している商人街。",
+      "color": "white",
+      "with":[
+        {
+          "translate": "マツキヨ",
+          "color": "aqua"
+        },
+        {
+          "translate": "ドラッグパパス",
+          "color": "aqua"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:tradeisland/tradeisland",
+  "criteria": {
+    "church": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

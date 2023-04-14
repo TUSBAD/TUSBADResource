@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_pearl",
+      "nbt": "{Enchantments:[{}]}"
+    },
+    "title": [
+      {
+        "translate": " 飛行船 ",
+        "color": "light_purple",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "職業島へ連れて行ってくれる、\n%1$sが所有している船。",
+      "color": "white",
+      "with": [
+        {
+          "translate": "エージェント",
+          "color": "light_purple"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:tradeisland/trade01",
+  "criteria": {
+    "agent": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

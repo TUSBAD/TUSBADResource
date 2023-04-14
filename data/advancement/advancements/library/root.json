@@ -1,0 +1,47 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bookshelf",
+            "nbt":"{Enchantments:[{}]}"
+        },
+        "title": [
+            {
+                "text": ""
+            },
+            {
+                "translate": "%1$sと%2$sの宝山 - 大図書館 -",
+                "color": "gold",
+                "bold": true,
+                "with": [
+                    {
+                        "translate": "知識",
+                        "color": "yellow",
+                        "bold": true
+                    },
+                    {
+                        "translate": "歴史",
+                        "color": "dark_purple",
+                        "bold": true
+                    }
+                ]
+            }
+        ],
+        "description": {
+            "translate": "来るもの拒む大図書館",
+            "color": "gold"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/bookshelf.png"
+    },
+    "criteria": {
+        "enter": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "tusb_remake:library"
+            }
+        }
+    }
+}
