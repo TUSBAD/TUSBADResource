@@ -16,7 +16,7 @@
 
 # TUSBAD_v12R
 TUSB二次創作「TUSBAD_v12R」開発用リソースパックリポジトリ<br>
-[Modver「TUSBAD_v12RModded」開発用リポジトリはこちら](https://github.com/FreyCIelu/ADv12RModded)
+[Modver「TUSBAD_v12RModded」開発用リポジトリはこちら](https://github.com/FreyCIelu/ADv12RModded)<br>
 [データパックリポジトリはこちら](https://github.com/FreyCIelu/TUSBAD_v12.5)
 
 Discord:https://discord.gg/rTVWQm4ykR
