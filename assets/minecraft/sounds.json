@@ -553,5 +553,23 @@
         "stream": true
       }
     ]
+  },
+  "music.an_ordinary_day": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/an_ordinary_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.one_more_day": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/one_more_day",
+        "stream": true
+      }
+    ]
   }
 }
