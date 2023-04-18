@@ -571,5 +571,14 @@
         "stream": true
       }
     ]
+  },
+  "music.stand_tall": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/stand_tall",
+        "stream": true
+      }
+    ]
   }
 }
