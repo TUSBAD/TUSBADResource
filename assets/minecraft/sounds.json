@@ -580,5 +580,24 @@
         "stream": true
       }
     ]
+  },
+  "music.warmth": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether3",
+        "stream": true
+      }
+    ]
+  },
+  "music.warmth_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether3",
+        "stream": true,
+        "pitch": 2
+      }
+    ]
   }
 }
