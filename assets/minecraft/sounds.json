@@ -644,5 +644,16 @@
         "stream": true
       }
     ]
+  },
+  "entity.player.levelup": {
+    "replace": true,
+    "sounds": []
+  },
+  "xp_chime": {
+    "sounds": [
+      {
+        "name": "random/levelup"
+      }
+    ]
   }
 }
