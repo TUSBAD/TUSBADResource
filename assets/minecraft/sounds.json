@@ -599,5 +599,50 @@
         "pitch": 2
       }
     ]
+  },
+  "music.dead_voxel": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether2",
+        "stream": true
+      }
+    ]
+  },
+  "music.ballad_cats": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether4",
+        "stream": true
+      }
+    ]
+  },
+  "music.shunjii": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/water/shunjii",
+        "stream": true
+      }
+    ]
+  },
+  "music.dragon_fish": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/water/dragon_fish",
+        "stream": true
+      }
+    ]
+  },
+  "music.axolotl": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/water/axolotl",
+        "stream": true
+      }
+    ]
   }
 }
