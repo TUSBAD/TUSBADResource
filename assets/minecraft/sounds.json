@@ -668,5 +668,42 @@
         "name": "ambient/nether/crimson_forest/shine3"
       }
     ]
+  },
+  "basalt_deltas_active": {
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/active1"
+      },
+      {
+        "name": "ambient/nether/basalt_deltas/active2"
+      },
+      {
+        "name": "ambient/nether/basalt_deltas/active3"
+      },
+      {
+        "name": "ambient/nether/basalt_deltas/active4"
+      }
+    ]
+  },
+  "basaltground": {
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/basaltground4"
+      }
+    ]
+  },
+  "warped_forest_mood8": {
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood8"
+      }
+    ]
+  },
+  "warped_forest_mood9": {
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood9"
+      }
+    ]
   }
 }
