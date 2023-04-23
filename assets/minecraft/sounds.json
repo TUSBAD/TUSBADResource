@@ -705,5 +705,12 @@
         "name": "ambient/nether/warped_forest/mood9"
       }
     ]
+  },
+  "classic_uo": {
+    "sounds": [
+      {
+        "name": "random/classic_hurt"
+      }
+    ]
   }
 }
