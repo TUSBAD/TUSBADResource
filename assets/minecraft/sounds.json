@@ -657,6 +657,7 @@
     ]
   },
   "crimson_forest_shine": {
+    "replace": true,
     "sounds": [
       {
         "name": "ambient/nether/crimson_forest/shine1"
@@ -670,6 +671,7 @@
     ]
   },
   "basalt_deltas_active": {
+    "replace": true,
     "sounds": [
       {
         "name": "ambient/nether/basalt_deltas/active1"
@@ -686,6 +688,7 @@
     ]
   },
   "basaltground": {
+    "replace": true,
     "sounds": [
       {
         "name": "ambient/nether/basalt_deltas/basaltground4"
@@ -693,6 +696,7 @@
     ]
   },
   "warped_forest_mood8": {
+    "replace": true,
     "sounds": [
       {
         "name": "ambient/nether/warped_forest/mood8"
@@ -700,6 +704,7 @@
     ]
   },
   "warped_forest_mood9": {
+    "replace": true,
     "sounds": [
       {
         "name": "ambient/nether/warped_forest/mood9"
@@ -707,6 +712,7 @@
     ]
   },
   "classic_uo": {
+    "replace": true,
     "sounds": [
       {
         "name": "random/classic_hurt"
