@@ -655,5 +655,18 @@
         "name": "random/levelup"
       }
     ]
+  },
+  "crimson_forest_shine": {
+    "sounds": [
+      {
+        "name": "ambient/nether/crimson_forest/shine1"
+      },
+      {
+        "name": "ambient/nether/crimson_forest/shine2"
+      },
+      {
+        "name": "ambient/nether/crimson_forest/shine3"
+      }
+    ]
   }
 }
