@@ -1,12 +1,109 @@
 [
     {
+        "section": "TUSB AnotherDimension",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "                   §dv12R §aα§r",
+                    "",
+                    "             By TUSBAD 製作班"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "AD 製作者",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "                §d§lフレイシェル§r",
+                    "",
+					"                   主製作者",
+                    "                 システム班",
+                    "                    建築班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lおねんね",
+                    "",
+                    "                  システム班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                    §b§lイーラ",
+                    "",
+                    "                  システム班",
+                    "                    建築班",
+                    "                 テクスチャ班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                    §b§lよひや",
+                    "",
+                    "                    建築班",
+                    "                 テクスチャ班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                   §b§lるーみあ",
+                    "",
+                    "                    建築班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lブラッキー",
+                    "",
+                    "                    建築班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                     §b§lたま",
+                    "",
+                    "                    建築班",
+                    "                    MOD班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                     §b§lぽか",
+                    "",
+                    "                  システム班",
+                    "                    建築班",
+                    "                    MOD班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lAltishia",
+                    "",
+                    "                    建築班"
+                ]
+            }
+		]
+	},
+    {
         "section": "原作",
         "titles": [
             {
-                "title": "Minecraft",
+                "title": "",
                 "names": [
-                    " Microsoft ",
-                    " Mojang "
+                    "             Minecraft 1.19.4 "
                 ]
             }
         ]
@@ -15,66 +112,19 @@
         "section": "元作品",
         "titles": [
             {
-                "title": "TheUnusualSkyBlock v12 / v13",
+                "title": "",
                 "names": [
-                    " サークルTUSB "
+                    "    §bTheUnusualSkyBlock v12§r / §av13§r",
+                    "",
+                    "              By サークルTUSB "
                 ]
             },
             {
-                "title": "TheUnusualSkyBlock v12Remake",
+                "title": "",
                 "names": [
-                    " 赤石愛 ",
-                    " Ponpon ",
-                    " やばね ",
-                    " フレイシェル ",
-                    " かずや ",
-                    " nemo "
-                ]
-            }
-        ]
-    },
-    {
-        "section": "TUSBAD 製作陣",
-        "titles": [
-            {
-                "title": "主製作者",
-                "names": [
-                    " フレイシェル"
-                ]
-            },
-            {
-                "title": "システム班",
-                "names": [
-                    " フレイシェル ",
-                    " イーラ ",
-                    " おねんね "
-                ]
-            },
-            {
-                "title": "建築班",
-                "names": [
-                    "フレイシェル ",
-                    " イーラ ",
-                    " よひや ",
-                    " Altishia ",
-                    " るーみあ ",
-                    " たま ",
-                    " ブラッキー ",
-                    " ぽか "
-                ]
-            },
-            {
-                "title": "MOD班",
-                "names": [
-                    " たま ",
-                    " ぽか "
-                ]
-            },
-            {
-                "title": "テクスチャ班",
-                "names": [
-                    " イーラ ",
-                    " よひや"
+                    "    §bTheUnusualSkyBlock §ev12Remake§r",
+                    "",
+                    "               By v12R 製作陣 "
                 ]
             }
         ]
@@ -83,20 +133,39 @@
         "section": "謝辞",
         "titles": [
             {
-                "title": "コマンドアドバイス",
+                "title": "",
                 "names": [
-                    " Ponpon "
+                    "              §7コマンドアドバイス§r",
+                    "",
+                    "                   §aPonpon§r "
                 ]
             },
             {
-                "title": "ライブラリ",
+                "title": " ",
                 "names": [
-                    " 赤石愛 "
+                    "                  §7ライブラリ§r",
+                    "",
+                    "                    AiMath",
+                    "             AnywareFunction",
+                    "             AnywareTeleport",
+                    "               CloseDetector",
+                    "                   NoSleep",
+                    "                   OhMyDat",
+                    "              PlayerItemTuner",
+                    "               ScoreToHealth",
+                    "",
+                    "                By §a赤石愛§r ",
+                    "",
+                    "               ScoreDamage",
+                    "",
+                    "                By §aちぇん§r"
+
                 ]
             },
             {
-                "title": "デバッガー",
+                "title": "",
                 "names": [
+                    "                  §7デバッガー§r",
                     ""
                 ]
             }
@@ -106,13 +175,15 @@
         "section": "クレジット",
         "titles": [
             {
-                "title": "音楽",
+                "title": "",
                 "names": [
-                    " パンダの中のパンダ 様 ",
-                    " PeriTune(ペリチューン) 様 ",
-                    " ユーフルカ 様 ",
-                    " Potwi 様 ",
-                    " まんぼう特攻兵 様 "
+                    "                     §7音楽§r",
+                    "",
+                    "            パンダの中のパンダ 様 ",
+                    "         PeriTune(ペリチューン) 様 ",
+                    "                ユーフルカ 様 ",
+                    "                    Potwi 様 ",
+                    "               まんぼう特攻兵 様 "
                 ]
             }
         ]
