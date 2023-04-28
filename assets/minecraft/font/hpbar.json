@@ -12,8 +12,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/hp_bar.png",
-            "ascent": -14,
-            "height": 10,
+            "ascent": -8,
+            "height": 16,
             "chars": [
                 "<"
             ]
