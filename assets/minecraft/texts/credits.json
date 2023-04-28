@@ -1,0 +1,120 @@
+[
+    {
+        "section": "原作",
+        "titles": [
+            {
+                "title": "Minecraft",
+                "names": [
+                    " Microsoft ",
+                    " Mojang "
+                ]
+            }
+        ]
+    },
+    {
+        "section": "元作品",
+        "titles": [
+            {
+                "title": "TheUnusualSkyBlock v12 / v13",
+                "names": [
+                    " サークルTUSB "
+                ]
+            },
+            {
+                "title": "TheUnusualSkyBlock v12Remake",
+                "names": [
+                    " 赤石愛 ",
+                    " Ponpon ",
+                    " やばね ",
+                    " フレイシェル ",
+                    " かずや ",
+                    " nemo "
+                ]
+            }
+        ]
+    },
+    {
+        "section": "TUSBAD 製作陣",
+        "titles": [
+            {
+                "title": "主製作者",
+                "names": [
+                    " フレイシェル"
+                ]
+            },
+            {
+                "title": "システム班",
+                "names": [
+                    " フレイシェル ",
+                    " イーラ ",
+                    " おねんね "
+                ]
+            },
+            {
+                "title": "建築班",
+                "names": [
+                    "フレイシェル ",
+                    " イーラ ",
+                    " よひや ",
+                    " Altishia ",
+                    " るーみあ ",
+                    " たま ",
+                    " ブラッキー ",
+                    " ぽか "
+                ]
+            },
+            {
+                "title": "MOD班",
+                "names": [
+                    " たま ",
+                    " ぽか "
+                ]
+            },
+            {
+                "title": "テクスチャ班",
+                "names": [
+                    " イーラ ",
+                    " よひや"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "謝辞",
+        "titles": [
+            {
+                "title": "コマンドアドバイス",
+                "names": [
+                    " Ponpon "
+                ]
+            },
+            {
+                "title": "ライブラリ",
+                "names": [
+                    " 赤石愛 "
+                ]
+            },
+            {
+                "title": "デバッガー",
+                "names": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "section": "クレジット",
+        "titles": [
+            {
+                "title": "音楽",
+                "names": [
+                    " パンダの中のパンダ 様 ",
+                    " PeriTune(ペリチューン) 様 ",
+                    " ユーフルカ 様 ",
+                    " Potwi 様 ",
+                    " まんぼう特攻兵 様 "
+                ]
+            }
+        ]
+    }
+]
