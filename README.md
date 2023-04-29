@@ -1,14 +1,14 @@
 ![TUSBAD version](https://img.shields.io/badge/ADversion-12R_1.0α-blueviolet.svg?)
 ![Minecraft version](https://img.shields.io/badge/MCversion-1.19.4-green.svg?logo=minecraft)
 [![discord](https://img.shields.io/discord/715245045300723775?logo=discord&label=discord)](https://discord.gg/rTVWQm4ykR)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/FreyCielu/TUSBAD_V12.5?include_prereleases)
-![GitHub](https://img.shields.io/github/license/FreyCielu/TUSBAD_V12.5)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/TUSBAD/TUSBADResource?include_prereleases)
+![GitHub](https://img.shields.io/github/license/TUSBAD/TUSBADResource)
 <br>
-[![activity](https://img.shields.io/github/commit-activity/m/FreyCielu/TUSBAD_v12.5?label=commit&logo=github&color=brightgreen)](https://github.com/FreyCielu/TUSBAD_V12.5/commits/1.19.x)
-![GitHub issues](https://img.shields.io/github/issues/FreyCielu/TUSBAD_V12.5?logo=github)
-![GitHub pr](https://img.shields.io/github/issues-pr/FreyCielu/TUSBAD_V12.5?logo=github)
-![GitHub all releases](https://img.shields.io/github/downloads/FreyCielu/TUSBAD_V12.5/total?logo=github)
-![GitHub contributors](https://img.shields.io/github/contributors/FreyCielu/TUSBAD_V12.5?color=aqua&logo=github)
+[![activity](https://img.shields.io/github/commit-activity/m/TUSBAD/TUSBADResource?label=commit&logo=github&color=brightgreen)](https://github.com/TUSBAD/TUSBADResource/commits/1.19.x)
+![GitHub issues](https://img.shields.io/github/issues/TUSBAD/TUSBADResource?logo=github)
+![GitHub pr](https://img.shields.io/github/issues-pr/TUSBAD/TUSBADResource?logo=github)
+![GitHub all releases](https://img.shields.io/github/downloads/TUSBAD/TUSBADResource/total?logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/TUSBAD/TUSBADResource?color=aqua&logo=github)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.carloscuesta.me/)
 <br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/FreyCielu.svg?style=social)
@@ -16,8 +16,8 @@
 
 # TUSBAD_v12R
 TUSB二次創作「TUSBAD_v12R」開発用リソースパックリポジトリ<br>
-[Modver「TUSBAD_v12RModded」開発用リポジトリはこちら](https://github.com/FreyCIelu/ADv12RModded)<br>
-[データパックリポジトリはこちら](https://github.com/FreyCIelu/TUSBAD_v12.5)
+[Modver「TUSBAD_v12RModded」開発用リポジトリはこちら](https://github.com/TUSBAD/TUSBADModded)<br>
+[データパックリポジトリはこちら](https://github.com/TUSBAD/TUSBADv12R)
 
 Discord:https://discord.gg/rTVWQm4ykR
 
@@ -31,7 +31,7 @@ Discord:https://discord.gg/rTVWQm4ykR
 # 追加要素
 
 # バグ報告・要望等
-[こちら](https://github.com/FreyCIelu/TUSBAD_v12.5/issues/new/choose) か [Discord](https://discord.gg/rTVWQm4ykR) までお願いします。
+[こちら](https://github.com/TUSBAD/TUSBADResource/issues/new/choose) か [Discord](https://discord.gg/rTVWQm4ykR) までお願いします。
 
 # Wiki
 [こちら](https://github.com/FreyCIelu/TUSBFanMade-Another_Dimension/wiki)
