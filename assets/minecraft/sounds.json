@@ -806,5 +806,59 @@
         "name": "block/wooden_door/clause3"
       }
     ]
+  },
+  "entity.mooshroom.convert_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/mooshroom/convert1",
+        "volume": 0.75
+      }
+    ]
+  },
+  "entity.mooshroom.convert_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/mooshroom/convert2",
+        "volume": 0.75
+      }
+    ]
+  },
+  "music.bromeliad": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/bromeliad",
+        "stream": true
+      }
+    ]
+  },
+  "music.a_familiar_room": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/a_familiar_room",
+        "stream": true
+      }
+    ]
+  },
+  "music.crescent_dunes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/crescent_dunes",
+        "stream": true
+      }
+    ]
+  },
+  "music.echo_in_the_wind": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/echo_in_the_wind",
+        "stream": true
+      }
+    ]
   }
 }
