@@ -15,7 +15,9 @@ body:
   attributes:
     label: 質問したいTUSBADのVersion
     options:
-- v12R_1.0α (MCver1.19.4)
+      - vPrototype
+      - v1.0α
+      - v1.0
   validations:
     required: true
 - type: checkboxes
