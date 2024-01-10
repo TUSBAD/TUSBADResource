@@ -5,7 +5,7 @@
             {
                 "title": "",
                 "names": [
-                    "                   §dv12R §aα§r",
+                    "                   §dRemake §aα§r",
                     "",
                     "             By TUSBAD 製作班"
                 ]
@@ -94,6 +94,22 @@
                     "",
                     "                    建築班"
                 ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lSysnote8",
+                    "",
+                    "                    システム班"
+                ]
+            },
+            {
+                "title": "",
+                "names": [
+                    "                  §b§lかつ丼",
+                    "",
+                    "                    アイディア班"
+                ]
             }
 		]
 	},
@@ -103,7 +119,7 @@
             {
                 "title": "",
                 "names": [
-                    "             Minecraft 1.19.4 "
+                    "             Minecraft 1.20.x "
                 ]
             }
         ]
