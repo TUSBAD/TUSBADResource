@@ -1,6 +1,10 @@
 {
-    "pack":{
+    "pack": {
         "pack_format": 18,
-        "description": "TUSBAD Remake"
+        "supported_formats": [
+            18,
+            22
+        ],
+        "description": "TUSBAD Remake\nMCver 1.20.2"
     }
 }
