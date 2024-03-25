@@ -1,13 +1,7 @@
 {
     "providers": [
         {
-            "type": "bitmap",
-            "file": "minecraft:item/ender_eye.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "E"
-            ]
+
         }
     ]
 }
